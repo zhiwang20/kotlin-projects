@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchRewards</string>
+    <string name="button_text">View List</string>
+    <string name="column1">id</string>
+    <string name="column2">listId</string>
+    <string name="column3">name</string>
+</resources>
